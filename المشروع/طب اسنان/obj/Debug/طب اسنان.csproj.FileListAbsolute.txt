@@ -1,0 +1,33 @@
+C:\Users\mkamel\Documents\SharpDevelop Projects\طب اسنان\طب اسنان\bin\Debug\طب اسنان.exe.config
+C:\Users\mkamel\Documents\SharpDevelop Projects\طب اسنان\طب اسنان\bin\Debug\طب اسنان.exe
+C:\Users\mkamel\Documents\SharpDevelop Projects\طب اسنان\طب اسنان\bin\Debug\طب اسنان.pdb
+C:\Users\mkamel\Documents\SharpDevelop Projects\طب اسنان\طب اسنان\obj\Debug\طب اسنان.csprojResolveAssemblyReference.cache
+C:\Users\mkamel\Documents\SharpDevelop Projects\طب اسنان\طب اسنان\obj\Debug\طب اسنان.exe
+C:\Users\mkamel\Documents\SharpDevelop Projects\طب اسنان\طب اسنان\obj\Debug\طب اسنان.pdb
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\obj\Debug\طب اسنان.csprojResolveAssemblyReference.cache
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\obj\Debug\طب_اسنان.Form1.resources
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\obj\Debug\طب_اسنان.Form5.resources
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\obj\Debug\طب_اسنان.Form6.resources
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\obj\Debug\طب اسنان.csproj.GenerateResource.Cache
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\bin\Debug\طب اسنان.exe.config
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\bin\Debug\طب اسنان.exe
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\bin\Debug\طب اسنان.pdb
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\obj\Debug\طب اسنان.exe
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\obj\Debug\طب اسنان.pdb
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\obj\Debug\طب_اسنان.Form4.resources
+C:\Users\mkamel\Desktop\طب اسنان\طب اسنان\obj\Debug\طب_اسنان.Form8.resources
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\bin\Debug\طب اسنان.exe.config
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\bin\Debug\طب اسنان.exe
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\bin\Debug\طب اسنان.pdb
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب_اسنان.Form1.resources
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب_اسنان.Form5.resources
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب_اسنان.Form6.resources
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب_اسنان.Form4.resources
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب_اسنان.Form8.resources
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب اسنان.csproj.GenerateResource.Cache
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب اسنان.exe
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب اسنان.pdb
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب_اسنان.Form9.resources
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب_اسنان.Form2.resources
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب اسنان.csprojResolveAssemblyReference.cache
+C:\Users\mkamel\Desktop\طبيبي\طب اسنان\obj\Debug\طب_اسنان.Form3.resources
